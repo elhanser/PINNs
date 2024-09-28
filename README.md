@@ -11,7 +11,7 @@ Comparison of analytic solution (left) with PINN results (center) with deviation
 
 ## Damped Harmonic Oscillator Results
 Comparison of analytic solution with the generalization capabilities of a basic NN and of a PINN.
-<img src="images/HarmonicOscillator.png" alt="drawing" width="800"/>
+<img src="images/HarmonicOscillator.png" alt="drawing" width="600"/>
 
 ## Citation
 Project based on:
